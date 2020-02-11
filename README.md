@@ -5,6 +5,8 @@ Demo for doing face, eye, glasses and smile recognition. First on an image and t
 conda workflow:
 
 ```
+git clone https://github.com/hd4niel/opencv-recognition-demo.git
+cd opencv-recognition-demo
 conda env create -f environment.yml
 conda activate opencv
 jupyter lab
